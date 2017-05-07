@@ -1,0 +1,504 @@
+@media screen and (min-width : 992px) and (max-width : 1024px){
+  body{
+    min-width: 100%;
+  }
+  .header {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .head_button {
+  display:block; 
+  }
+
+  .site-logo {
+     width: 20%;
+  }
+  .site-slogan {
+     display: none;
+  }
+  .front-slider {
+    width: 96%;
+    margin-right: 2%;
+    margin-left: 2%;
+  }
+
+  .content {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+ 
+   .navigation > li{
+    display: none;
+    top: 15px;
+    background-color: white;
+  }
+    .navigation > li.fullwidth {
+    position: relative;
+  }
+  .navigation > li.expandable > a > .after, .navigation > li.expandable > a::after {
+    content: unset;
+  }
+  /*end index.php*/
+  
+  
+  
+  
+  
+}
+
+@media screen and (min-width : 802px) and (max-width : 991px){
+    body{
+    min-width: 100%;
+  }
+  .page {
+    margin-bottom: 160px;
+  }
+  .header {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .head_button {
+  display:block; 
+  }
+  .head_button p {
+    right: 10%;
+ 
+  }
+
+  .site-logo {
+     width: 20%;
+  }
+  .site-slogan {
+     display: none;
+  }
+  .front-slider {
+    width: 96%;
+    margin-right: 2%;
+    margin-left: 2%;
+  }
+
+  .content {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+ 
+   .navigation > li{
+    display: none;
+    top: 15px;
+    background-color: white;
+  }
+    .navigation > li.fullwidth {
+    position: relative;
+  }
+  .navigation > li.expandable > a > .after, .navigation > li.expandable > a::after {
+    content: unset;
+  }
+  
+  /*end index.php*/
+  .secondary{
+    display:none;
+    width: 95%;
+    position: absolute;
+    background-color: white;
+ 
+  }
+  .head_button_cat{
+    display:block;
+  }
+  
+  .product-item {
+    width: 29%;
+ }
+ .w262 {
+     width: 95%;
+  }
+   
+  
+}
+
+
+@media screen and (min-width : 769px) and (max-width : 801px){
+     body{
+    min-width: 100%;
+  }
+  .page {
+    margin-bottom: 160px;
+  }
+  .header {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .head_button {
+  display:block; 
+  }
+  .head_button p {
+    right: 10%;
+ 
+  }
+
+  .site-logo {
+     width: 20%;
+  }
+  .site-slogan {
+     display: none;
+  }
+  .front-slider {
+    width: 96%;
+    margin-right: 2%;
+    margin-left: 2%;
+  }
+
+  .content {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .text_home_index_button span {
+    margin-right: 30px;
+  }
+ 
+   .navigation > li{
+    display: none;
+    top: 15px;
+    background-color: white;
+  }
+    .navigation > li.fullwidth {
+    position: relative;
+  }
+  .navigation > li.expandable > a > .after, .navigation > li.expandable > a::after {
+    content: unset;
+  }
+  
+  /*end index.php*/
+  .secondary{
+    display:none;
+    width: 95%;
+    position: absolute;
+    background-color: white;
+ 
+  }
+  .head_button_cat{
+    display:block;
+  }
+  
+  .product-item {
+    width: 29%;
+ }
+ .w262 {
+     width: 95%;
+  }
+  
+  
+}
+
+@media screen and (min-width : 601px) and (max-width : 768px){
+     body{
+    min-width: 100%;
+  }
+  .page {
+    margin-bottom: 160px;
+  }
+  .header {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .head_button {
+  display:block; 
+  }
+  .head_button p {
+    right: 11%;
+ 
+  }
+  .site-contacts .skype {
+     font-size: unset;
+  }
+  .site-contacts {
+    font-size: 13px;
+  }
+
+  .site-logo {
+     width: 20%;
+  }
+  .search-input {
+   width: 130px;
+ 
+  }
+  .site-slogan {
+     display: none;
+  }
+  .front-slider {
+    width: 96%;
+    margin-right: 2%;
+    margin-left: 2%;
+  }
+
+  .content {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .front-slider .slide-text {
+     width: 550px;
+    margin: 0;
+    padding: 0;
+    
+  }
+  .text_home_index_button span {
+    margin-right: 30px;
+  }
+ 
+   .navigation > li{
+    display: none;
+    top: 15px;
+    background-color: white;
+  }
+    .navigation > li.fullwidth {
+    position: relative;
+  }
+  .navigation > li.expandable > a > .after, .navigation > li.expandable > a::after {
+    content: unset;
+  }
+   /*end index.php*/
+  .secondary{
+    display:none;
+    width: 95%;
+    position: absolute;
+    background-color: white;
+ 
+  }
+  .head_button_cat p {
+     left: 10%;
+ 
+  }
+  .head_button_cat{
+    display:block;
+  }
+  
+  .product-item {
+    width: 45%;
+ }
+ .w262 {
+     width: 95%;
+  }
+  
+  
+}
+
+@media screen and (min-width : 481px) and (max-width : 600px){
+    body{
+    min-width: 100%;
+  }
+  .page {
+    margin-bottom: 160px;
+  }
+  .header {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .head_button {
+  display:block; 
+  }
+  .head_button p {
+    right: 15%;
+ 
+  }
+  .site-contacts .skype {
+     font-size: unset;
+  }
+  .site-contacts {
+    font-size: 10px;
+  }
+
+  .site-logo {
+     width: 20%;
+  }
+  .search-input {
+   width: 110px;
+ 
+  }
+  .site-slogan {
+     display: none;
+  }
+  .front-slider {
+    width: 96%;
+    margin-right: 2%;
+    margin-left: 2%;
+  }
+
+  .content {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .front-slider .slide-text {
+     width: 400px;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  
+  .text_home_index_button span {
+    margin-right: 30px;
+  }
+ 
+   .navigation > li{
+    display: none;
+    top: 15px;
+    background-color: white;
+  }
+    .navigation > li.fullwidth {
+    position: relative;
+  }
+  .navigation > li.expandable > a > .after, .navigation > li.expandable > a::after {
+    content: unset;
+  }
+   /*end index.php*/
+  .secondary{
+    display:none;
+    width: 95%;
+    position: absolute;
+    background-color: white;
+ 
+  }
+  .head_button_cat p {
+    left: 10%;
+ 
+  }
+  .head_button_cat{
+    display:block;
+  }
+  
+  .product-item {
+    width: 40%;
+ }
+ .w262 {
+     width: 95%;
+  }
+  
+  
+}
+
+@media screen and (min-width : 241px) and (max-width : 480px){
+    body{
+    min-width: 100%;
+  }
+  .page {
+    margin-bottom: 280px;
+  }
+  .header {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .header > .content {
+    text-align: unset;
+  }
+  
+  .head_button {
+  display:block; 
+  }
+  .head_button p {
+    right: 20%;
+ 
+  }
+  .site-contacts .skype {
+     font-size: unset;
+  }
+  .site-contacts {
+    font-size: 10px;
+  }
+
+  .site-logo {
+     display: none;
+  }
+  .search-input {
+   width: 60px;
+   padding: 9px 50px 9px 9px;
+ 
+  }
+  .site-slogan {
+     display: none;
+  }
+  .front-slider {
+    width: 96%;
+    margin-right: 2%;
+    margin-left: 2%;
+  }
+  .front-slider .jcarousel-pagination {
+   display: none;
+  }
+  .front-slider .slide-title {
+    width: 270px;
+    margin-bottom: 20px;
+  }
+
+  .content {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .category-item {
+    width: 85%;
+ 
+  }
+  .front-slider .slide-text {
+     width: 250px;
+    margin: 0;
+    padding: 0;
+    
+  }
+  .news-item {
+    width: 100%;
+  }
+  
+  
+  .text_home_index_button span {
+    margin-right: 30px;
+  }
+ 
+   .navigation > li{
+    display: none;
+    top: 15px;
+    background-color: white;
+  }
+    .navigation > li.fullwidth {
+    position: relative;
+  }
+  .navigation > li.expandable > a > .after, .navigation > li.expandable > a::after {
+    content: unset;
+  }
+  /*end index.php*/
+  .secondary{
+    display:none;
+    width: 95%;
+    position: absolute;
+    background-color: white;
+ 
+  }
+  .head_button_cat p {
+    left: 15%;
+ 
+  }
+  .head_button_cat{
+    display:block;
+  }
+  
+  .product-item {
+    width: 90%;
+ }
+ .w262 {
+     width: 95%;
+  }
+  .text-block img {
+    width: 95% !important;
+  }
+  
+}
